@@ -1,0 +1,476 @@
+@media screen and (max-width: 1380px) {
+	.container {
+		width: 1170px !important;
+		padding: 0 15px;
+	}
+	.top-first {
+		line-height: 1.2em;
+	}
+	.advantages-body {
+		padding: 70px 30px !important;
+	}
+	.collection-text-two {
+		padding-right: 30px !important;
+	}
+	.sale-body,
+	.about-body {
+		-webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+	}
+	.sale-block,
+	.about-block {
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+	.header-logo {
+		width: 20% !important;
+	}
+	.adaptive-menu {
+		width: 80% !important;
+	}
+}
+
+@media screen and (max-width: 1200px) {
+	.container {
+		width: 960px !important;
+	}
+	.advantages-body,
+	.contact-body {
+		-webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+	}
+	.advantages-block {
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+	.advantages {
+		margin-bottom: 220px;
+	}
+	.contact-post {
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+	.collection-text-two a,
+	.collection-text a {
+		font-size: 42px !important;
+	}
+	.collection-text-two a img {
+		margin-left: 0px !important;
+	}
+	.collection-text-two {
+		padding-left: 30px !important;
+	}
+	.advantages-body {
+		padding: 30px 30px !important;
+	}
+	.collection-text-two {
+		padding: 90px 10px 90px 10px !important;
+	}
+	.sale-block {
+		margin: 0 20px;
+	}
+	.sale-block:nth-child(3),
+	.sale-block:last-child {
+		margin-top: 50px;
+	}
+	.sale-body {
+		justify-content: space-around !important;
+	}
+	.top-first {
+		width: 25%;
+	}
+	.top-right {
+		width: 75%;
+	}
+	.top-moto,
+	.top-card,
+	.top-question {
+		padding: 20px;
+	}
+	.top-moto p,
+	.top-card p,
+	.top-question p {
+		line-height: 1.2em;
+	}
+	.header-body {
+		display: block !important;
+	}
+	.header-logo,
+	.menu,
+	.basket {
+		justify-content: center;
+		margin-top: 30px;
+	}
+	.input-search {
+		display: block;
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+	.enter {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.header-logo {
+		margin-top: 0 !important;
+	}
+	.offer-block {
+		padding-left: 0 !important;
+	}
+	.slick-dots {
+		left: -260px !important;
+	}
+	.adaptive-menu {
+		display: block !important;
+		width: 100% !important;
+	}
+	.header-logo {
+		width: 100% !important;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.container {
+		width: 720px !important;
+	}
+	.sale-block {
+		margin-top: 50px;
+	}
+	.sale-block:first-child {
+		margin-top: 0;
+	}
+	.sale-wrapper {
+		padding: 48px 50px !important;
+	}
+	.collection-body {
+		display: block !important;
+	}
+	.collection-block-two,
+	.collection-block-third {
+		width: 100% !important;
+	}
+	.collection-text-two {
+		padding: 73px 80px 73px 0 !important;
+	}
+	.collection-text-two a {
+		text-align: right !important;
+	}
+	.collection-text-two a img {
+		margin-left: 12px !important;
+	}
+	.collection-block-third {
+		margin-top: 30px;
+	}
+	.contact-menu-two {
+		margin-top: 50px;
+	}
+	.slick-dots {
+		left: -130px !important;
+	}
+	.top-body,
+	.top-right {
+		display: block !important;
+	}
+	.header {
+		padding-top: 30px;
+	}
+	.top-first {
+		width: 100%;
+		text-align: center;
+		margin-left: 0 !important;
+		margin-bottom: 30px;
+	}
+	.header-container {
+		width: 100% !important;
+		padding: 0 !important;
+	}
+	.top-moto,
+	.top-card,
+	.top-question {
+		width: 100% !important;
+	}
+	.top-right {
+		width: 100% !important;
+	}
+	.top-first:before {
+		display: none !important;
+	}
+	.advantages-block:first-child {
+		margin-top: 0 !important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.container {
+		width: 540px !important;
+	}
+	.header-container {
+		width: 100% !important;
+		padding: 0 !important;
+	}
+	.offer-text span {
+		font-size: 42px !important;
+	}
+	.offer-text h1 {
+		font-size: 140px !important;
+	}
+	.offer-btn {
+		width: 210px !important;
+		height: 52px !important;
+		font-size: 18px !important;
+		margin-left: 56px !important;
+	}
+	.slick-dots {
+		left: -110px !important;
+		bottom: -55px !important;
+	}
+	.slick-dots li button:before {
+		width: 20px !important;
+		height: 20px !important;
+	}
+	.slick-dots li {
+		margin: 0 10px !important;
+	}
+	.collection-text a {
+		text-align: right;
+		justify-content: flex-end !important;
+		align-items: flex-end !important;
+	}
+	.collection-text a img {
+		margin-bottom: 8px;
+	}
+	.collection-text,
+	.collection-text-two {
+		padding: 40px 45px 40px 45px !important;
+	}
+	h2 {
+		font-size: 48px !important;
+	}
+	.about-text p {
+		font-size: 22px !important;
+	}
+	.about-wrapper {
+		padding: 48px 0 !important;
+	}
+	.about-text {
+		width: 90% !important;
+		margin: 0 auto;
+	}
+	.about-block:first-child {
+		margin-top: 0 !important;
+	}
+	.contact-menu-two {
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+	.sale-wrapper,
+	.advice-wrapper {
+		padding: 30px 40px !important;
+	}
+	.burger-menu {
+		display: flex !important;
+		justify-content: center;
+	}
+	.header-body {
+		display: flex !important;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.header-logo {
+		width: auto !important;
+	}
+	.header-body {
+		padding: 10px 0 !important;
+		position: relative;
+		width: 100%;
+	}
+	.adaptive-menu {
+		background: #547396;
+		width: 100%;
+		height: auto;
+		position: absolute;
+		left: -100%;
+		top: 100px;
+		z-index: 10;
+		transition: 0.3s linear;
+	}
+	.menu {
+		display: block !important;
+		margin-top: 0 !important;
+	}
+	.menu__item {
+		margin-left: 0 !important;
+	}
+	.menu__link {
+		width: 100%;
+		font-size: 20px !important;
+		text-transform: uppercase;
+		padding: 15px 0;
+		display: block;
+		text-align: center;
+		background: #455e79;
+		transition: 0.3s linear;
+	}
+	.menu__link:hover,
+	.enter:hover {
+		opacity: 0.5;
+	}
+	.menu__link:before {
+		display: none;
+	}
+	.enter,
+	.basket,
+	.search-block {
+		width: 100%;
+		font-size: 20px !important;
+		text-transform: uppercase;
+		padding: 15px 0;
+		text-align: center;
+		background: #455e79;
+		transition: 0.3s linear;
+		margin-top: 0;
+		cursor: pointer;
+	}
+	.input-search {
+		margin-top: 0 !important;
+	}
+	.menu-container {
+		width: 100% !important;
+		padding: 0 !important;
+	}
+	.header-body {
+		justify-content: space-around !important;
+	}
+	.adaptive-menu-active {
+		left: 0 !important;
+	}
+	.offer {
+		padding: 100px 0 !important;
+	}
+	.advantages-body {
+		position: relative !important;
+		top: 0 !important;
+	}
+	.advantages {
+		margin: 60px 0;
+	}
+}
+
+@media screen and (max-width: 568px) {
+	.container {
+		width: 90% !important;
+	}
+	.menu-container,
+	.header-container {
+		width: 100% !important;
+	}
+	.collection-text a,
+	.collection-text-two a {
+		font-size: 24px !important;
+		text-align: center !important;
+		line-height: 1.2em;
+	}
+	.collection-text a img,
+	.collection-text-two a img {
+		display: none;
+	}
+	.collection-text,
+	.collection-text-two {
+		padding: 40px 10px !important;
+	}
+	.collection-border {
+		border: 15px solid white !important;
+	}
+	.advice-wrapper,
+	.sale-wrapper {
+		padding: 30px 0px !important;
+	}
+	.advantages-block {
+		display: block !important;
+		text-align: center;
+	}
+	.advantages-text p {
+		width: 90% !important;
+		margin: 0 auto;
+	}
+	.advantages-block span {
+		margin: 0 auto;
+	}
+	.advantages-text h3 {
+		margin-top: 20px;
+		width: 100%;
+	}
+	.advantages-text {
+		margin-left: 0 !important;
+	}
+	h2 {
+		font-size: 32px !important;
+	}
+	.about-text p {
+		font-size: 18px !important;
+	}
+	.about-block img {
+		width: 80% !important;
+	}
+	.contact-body {
+		display: block !important; 
+	}
+	.contact-link {
+		display: block !important;
+	}
+	.link-block-two {
+		margin-left: 0 !important;
+	}
+	.contact-menu {
+		text-align: center;
+	}
+	.link-block-two a {
+		margin-top: 14px !important;
+	}
+	.contact-social {
+		justify-content: center;
+	}
+	.contact-menu,
+	.contact-post {
+		margin-top: 30px !important;
+	}
+	.footer-body {
+		display: block !important;
+	}
+	.footer-body p {
+		font-size: 16px !important;
+		text-align: center;
+	}
+	.footer-pay {
+		margin-top: 30px;
+	}
+	.offer-text h1 {
+		font-size: 70px !important;
+	}
+	.offer-text span {
+		font-size: 28px !important;
+		margin-left: 30px !important;
+	}
+	.offer-btn {
+		width: 160px !important;
+		height: 42px !important;
+		font-size: 14px !important;
+		margin-left: 20px !important;
+	}
+	.slick-dots {
+		left: -10px !important;
+	}
+	.slick-dots li button:before {
+		width: 15px !important;
+		height: 15px !important;
+	}
+	.slick-dots li {
+		margin: 0 8px !important;
+	}
+	.sale-block h3 {
+		width: 95% !important;
+		line-height: 1.2em;
+		margin: 0 auto;
+	}
+}
